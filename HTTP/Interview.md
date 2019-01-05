@@ -29,3 +29,16 @@
 
 
 </details>
+
+<details>
+<summary> 6. 什么是https，说说https的工作原理？</summary>
+
+
+
+</details>
+
+<details>
+<summary>7. 什么是http代理服务器，有什么用？</summary>
+
+
+</details>

@@ -19,3 +19,18 @@
 
 </details>
 
+<details>
+<summary>4. 为什么说TCP/IP协议是不可靠的？</summary>
+
+
+
+</details>
+
+<details>
+<summary>5. OSI有哪七层模型？TCP/IP是哪四层模型</summary>
+
+
+
+</details>
+
+

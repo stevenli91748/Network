@@ -3,6 +3,11 @@
 # 网络知识目录
 
 * [网络通信]()
+  * [基于消息方式的系统间通信]()
+  * [基于远程调用方式的系统间通信]() 
+  * [消息通信]()
+    * rabbitmq
+    * kafka
 
 * [HTTP](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)
 

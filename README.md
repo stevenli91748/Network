@@ -1,16 +1,37 @@
 # [Network 面试](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
 
 # 网络知识目录
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/qFQZzy9/image.jpg" alt="image" border="0"></a>
+
 * [网络通信基础]()
-  * [基于消息方式的系统间通信]()
-    * 基于java包实现消息方式的系统间通信
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/qFQZzy9/image.jpg" alt="image" border="0"></a>
+ 
+* 分布式应用的系统间通信方式
+  * 网络通信
+    * 协议
       * TCP/IP
       * UDP/IP
       * Multicast
-    * 基于开源框架实现消息方式的系统间通信
-      * Netty
-      * Mina(apache，基于java NIO，对外屏蔽了JavaNIO的复杂性)
+    * IO
+      * BIO
+      * NIO
+      * AIO
+  * [基于消息方式的系统间通信]()
+    * Socket方式
+      * 基于java包实现消息方式的系统间通信
+        * TCP/IP
+        * UDP/IP
+        * Multicast
+      * 基于开源框架实现消息方式的系统间通信
+        * Netty
+        * Mina(apache，基于java NIO，对外屏蔽了JavaNIO的复杂性)
+        * Dubbo
+    * 消息队列方式
+      * java包实现消息队列方式的系统间通信
+        * JMS
+      * 基于开源框架实现消息队列方式的系统间通信
+        * ActiveMQ
+        * RocketMQ
+        * RabbitMQ
   * [基于远程调用方式的系统间通信]() 
     * 基于java包实现远程调用方式的系统间通信
       * RMI(Remote Method Invocation)
@@ -18,10 +39,9 @@
     * 基于开源框架实现远程调用方式的系统间通信
       * Spring RMI(简单就实现RMI方式的java远程调用)
       * Apache CXF
-  * [消息通信]()
-      * rabbitmq
-      * kafka
-
+      * Hessian
+      * AXIS
+   
 * [HTTP](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)
 
 

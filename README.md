@@ -15,7 +15,7 @@
     * 基于java包实现远程调用方式的系统间通信
       * RMI(Remote Method Invocation)
       * webservice
-   * 基于开源框架实现远程调用方式的系统间通信
+    * 基于开源框架实现远程调用方式的系统间通信
       * Spring RMI(简单就实现RMI方式的java远程调用)
       * Apache CXF
   * [消息通信]()

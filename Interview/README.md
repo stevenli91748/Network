@@ -1,3 +1,14 @@
+协议
+
+TCP/IP
+UDP/IP
+Multicast
+
+IO
+BIO
+NIO
+AIO
+
 
 1.http是无状态通信，http的请求方式有哪些，可以自己定义新的请求方式么。
 

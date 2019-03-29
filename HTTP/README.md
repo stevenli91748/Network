@@ -4,7 +4,7 @@
 
 
 # 有用的参考
-
+*  [http和https的区别与联系](https://www.imooc.com/article/27043)
 *  [HTTP API 设计指南（基础部分）](https://segmentfault.com/a/1190000002511720)
 *  [HTTP API 设计指南（请求部分）](https://segmentfault.com/a/1190000002512493)
 *  [HTTP API 设计指南（响应部分）](https://segmentfault.com/a/1190000002515342)

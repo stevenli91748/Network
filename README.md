@@ -7,11 +7,14 @@
  
 * 分布式应用的系统间通信方式
   * 网络通信
-    * 协议
+    * 通信协议
       * TCP/IP
       * UDP/IP
       * Multicast
-    * IO
+      * HTTP
+      * Socket
+      * WebSocket
+    * Java NIO基础
       * BIO(Blocking-IO, 阻塞式IO)
       * NIO(Non-Blocking IO, 非阻塞式IO)
       * AIO(Async IO/NIO.2 异步IO)

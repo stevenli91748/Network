@@ -17,4 +17,5 @@
 *  [HTTP 缓存机制](https://zhuanlan.zhihu.com/p/58685072?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 *  [99% 的人都理解错了 HTTP 中 GET 与 POST 的区别](https://zhuanlan.zhihu.com/p/54654014?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
-* [HTTP 响应代码](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status)
+*  [HTTP 响应代码](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Status)
+*  [一个HTTP打趴80%面试者](https://zhuanlan.zhihu.com/p/60450391?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)

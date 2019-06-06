@@ -61,3 +61,4 @@
 * [linux如何查看某个端口被哪个程序占用了](https://blog.如何模拟超过 5 万的并发用户csdn.net/gezilan/article/details/79921059)
 * [如何模拟超过 5 万的并发用户](https://blog.csdn.net/j3T9Z7H/article/details/89666686)
 * [模拟百万级TCP并发](https://blog.csdn.net/u011001084/article/details/54089182)
+* [深入理解非阻塞同步IO和非阻塞异步IO](https://blog.csdn.net/iter_zc/article/details/39291647)

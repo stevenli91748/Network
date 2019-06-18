@@ -21,3 +21,4 @@
 *  [一个HTTP打趴80%面试者](https://zhuanlan.zhihu.com/p/60450391?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [利用负载均衡优化和加速HTTP应用](https://blog.51cto.com/virtualadc/580832)
 * [利用HTTP Cache来优化网站](https://www.cnblogs.com/cocowool/archive/2011/08/22/2149929.html)
+* [很全面的http协议解析](https://blog.csdn.net/MrQkeil/article/details/79577195)

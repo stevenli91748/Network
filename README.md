@@ -23,7 +23,7 @@
       * TCP/IP
       * UDP/IP
       * Multicast
-      * HTTP
+      * [HTTP](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)
       * Socket
       * WebSocket
     * Java NIO基础
@@ -57,7 +57,7 @@
       * Hessian
       * AXIS
    
-* [HTTP](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)
+
 
 
 # 服务器采取的网络编程模型

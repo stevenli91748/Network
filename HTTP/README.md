@@ -1,5 +1,7 @@
 
+# HTTP 中有八种不同的请求方式
 
+       HTTP 中有八种不同的请求方式，包括 get、post、put、delete、option、head、trace、connect；
 
 
 

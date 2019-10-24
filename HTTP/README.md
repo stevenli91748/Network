@@ -3,7 +3,9 @@
 
        HTTP 中有八种不同的请求方式，包括 get、post、put、delete、option、head、trace、connect；
 
+# HTTP视频
 
+  [如何为网站配置https,非常详细的教程](https://www.bilibili.com/video/av35381918?from=search&seid=5658735684576843185)
 
 # 有用的参考
 *  [http和https的区别与联系](https://www.imooc.com/article/27043)

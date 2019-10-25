@@ -3,7 +3,7 @@
 * [HTTP请求格式](#HTTP请求格式)
 * [HTTP响应格式](#HTTP响应格式)
 
-
+# 仅安装HTTP WATCH in IE 浏览器上，别的浏览器都没有，如果想用HTTP WATCH ，就用IE打开页面，然后右击，选HTTP WATCH BASIC
 
 # HTTP 中有八种不同的请求方式
 

@@ -7,7 +7,9 @@
 # 仅安装HTTP WATCH in IE 浏览器上，别的浏览器都没有，如果想用HTTP WATCH ，就用IE打开页面，然后右击，选HTTP WATCH BASIC
 
 # HTTP 中有八种不同的请求方式
-
+   
+   [HTTP协议的8种请求类型介绍](https://www.cnblogs.com/chaoyuehedy/p/9963417.html)
+   
    HTTP 中有八种不同的请求方式，包括 get、post、put、delete、option、head、trace、connect；
        
        1.  OPTIONS：允许客户端查看服务器的性能。
@@ -27,6 +29,7 @@
 
        8.  CONNECT：HTTP/1.1协议中预留给能够将连接改为管道方式的代理服务器
 
+ 
 
 # HTTP请求格式
 

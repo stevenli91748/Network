@@ -8,7 +8,24 @@
 
 # HTTP 中有八种不同的请求方式
 
-       HTTP 中有八种不同的请求方式，包括 get、post、put、delete、option、head、trace、connect；
+   HTTP 中有八种不同的请求方式，包括 get、post、put、delete、option、head、trace、connect；
+       
+       1.  OPTIONS：允许客户端查看服务器的性能。
+
+       2.  HEAD：类似于get请求，只不过返回的响应中没有具体的内容，用于获取报头。
+
+       3.  GET：向特定的资源发出请求。
+
+       4.  POST：向指定资源提交数据进行处理请求（例如提交表单或者上传文件）。数据被包含在请求体中。POST请求可能会导致新的资源的创建和/或已有资
+           源的修改。
+
+       5.  PUT：向指定资源位置上传其最新内容。
+
+       6.  DELETE：请求服务器删除Request-URI所标识的资源。
+
+       7.  TRACE：回显服务器收到的请求，主要用于测试或诊断。
+
+       8.  CONNECT：HTTP/1.1协议中预留给能够将连接改为管道方式的代理服务器
 
 
 # HTTP请求格式

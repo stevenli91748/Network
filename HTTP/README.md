@@ -11,14 +11,6 @@
        HTTP 中有八种不同的请求方式，包括 get、post、put、delete、option、head、trace、connect；
 
 
-# HTTP请求的种类
-    1. 网站地址请求
-    
-    2. 超链接请求
-    
-    3. 表单提交请求
-    
-    4. 在表单中的某一项的检查，AJAX请求
 # HTTP请求格式
 
 # HTTP响应格式

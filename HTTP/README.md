@@ -1,10 +1,10 @@
 * HTTP基础知识
   * [HTTP 中有八种不同的请求方式](#HTTP-中有八种不同的请求方式)
-  * [HTTP请求的种类](#HTTP请求的种类)
+  * [HTTP协仪版本](#HTTP协仪版本)
 * [HTTP请求格式](#HTTP请求格式)
 * [HTTP响应格式](#HTTP响应格式)
 
-
+# HTTP WATCH 10 已装在IE中， win10 平台 必须要安装 version 10以上的HTTP WATCH
 
 # HTTP 中有八种不同的请求方式
    
@@ -29,7 +29,9 @@
 
        8.  CONNECT：HTTP/1.1协议中预留给能够将连接改为管道方式的代理服务器
 
+ # HTTP协仪版本
  
+    HTTP1.0   HTTP1.1
 
 # HTTP请求格式
 

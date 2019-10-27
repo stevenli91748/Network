@@ -66,6 +66,8 @@
 # HTTP视频
 
   [如何为网站配置https,非常详细的教程](https://www.bilibili.com/video/av35381918?from=search&seid=5658735684576843185)
+  
+  [HTTP1.0  HTTP1.1  HTTP2.0的区别](https://www.bilibili.com/video/av59522356?from=search&seid=9627788764234609536)
 
 # 有用的参考
 

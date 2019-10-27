@@ -1,6 +1,7 @@
 * HTTP基础知识
   * [HTTP 中有八种不同的请求方式](#HTTP-中有八种不同的请求方式)
-  * [HTTP协仪版本](#HTTP协仪版本)
+  * [HTTP协仪各种版本的优缺点](#HTTP协仪各种版本的优缺点)
+* [HTTP与HTTPS的区别](#HTTP与HTTPS的区别)
 * [HTTP请求格式](#HTTP请求格式)
 * [HTTP响应格式](#HTTP响应格式)
 
@@ -43,9 +44,19 @@
     
     5. SRC资源路径请求    （get请求）
 
- # HTTP协仪版本
+# HTTP与HTTPS的区别
+  
+  *  [http和https的区别与联系](https://www.imooc.com/article/27043)
+
+# HTTP协仪各种版本的优缺点
  
-    HTTP1.0   HTTP1.1  HTTP2.0
+   [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://www.cnblogs.com/heluan/p/8620312.html)
+    
+   HTTP1.0
+   
+   HTTP1.1
+   
+   HTTP2.0
 
 # HTTP请求格式
 
@@ -57,7 +68,7 @@
   [如何为网站配置https,非常详细的教程](https://www.bilibili.com/video/av35381918?from=search&seid=5658735684576843185)
 
 # 有用的参考
-*  [http和https的区别与联系](https://www.imooc.com/article/27043)
+
 *  [HTTP API 设计指南（基础部分）](https://segmentfault.com/a/1190000002511720)
 *  [HTTP API 设计指南（请求部分）](https://segmentfault.com/a/1190000002512493)
 *  [HTTP API 设计指南（响应部分）](https://segmentfault.com/a/1190000002515342)

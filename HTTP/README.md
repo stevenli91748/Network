@@ -45,7 +45,7 @@
 
  # HTTP协仪版本
  
-    HTTP1.0   HTTP1.1
+    HTTP1.0   HTTP1.1  HTTP2.0
 
 # HTTP请求格式
 

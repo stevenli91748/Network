@@ -1,12 +1,26 @@
 * HTTP基础知识
   * [HTTP 中有八种不同的请求方式](#HTTP-中有八种不同的请求方式)
+  * [影响一个HTTP网络请求的因素](#影响一个HTTP网络请求的因素)
   * [HTTP协仪各种版本的优缺点](#HTTP协仪各种版本的优缺点)
+
 * [HTTP与HTTPS的区别](#HTTP与HTTPS的区别)
 * [HTTP请求格式](#HTTP请求格式)
 * [HTTP响应格式](#HTTP响应格式)
 
 # HTTP WATCH 10 已装在IE中， win10 平台 必须要安装 version 10以上的HTTP WATCH
 
+
+# 影响一个HTTP网络请求的因素
+
+  1. 带宽
+  
+  2. 延迟
+     2.1  浏览器原因
+     
+     2.2  DNS查询
+     
+     2.3  建立连接
+  
 # HTTP 中有八种不同的请求方式
    
    [HTTP协议的8种请求类型介绍](https://www.cnblogs.com/chaoyuehedy/p/9963417.html)

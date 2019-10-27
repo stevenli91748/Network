@@ -50,8 +50,14 @@
 
 # HTTP协仪各种版本的优缺点
  
-   [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://www.cnblogs.com/heluan/p/8620312.html)
-    
+  [HTTP1.0、HTTP1.1 和 HTTP2.0 的区别](https://www.cnblogs.com/heluan/p/8620312.html)
+  
+  视频
+  
+  [HTTP1.0  HTTP1.1  HTTP2.0的区别](https://www.bilibili.com/video/av59522356?from=search&seid=9627788764234609536)
+  
+  
+  
    HTTP1.0
    
    HTTP1.1
@@ -67,7 +73,7 @@
 
   [如何为网站配置https,非常详细的教程](https://www.bilibili.com/video/av35381918?from=search&seid=5658735684576843185)
   
-  [HTTP1.0  HTTP1.1  HTTP2.0的区别](https://www.bilibili.com/video/av59522356?from=search&seid=9627788764234609536)
+  
 
 # 有用的参考
 

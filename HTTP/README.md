@@ -87,7 +87,7 @@
 
   [如何为网站配置https,非常详细的教程](https://www.bilibili.com/video/av35381918?from=search&seid=5658735684576843185)
   
-  
+  [HTTPS 网络协议原理解析](https://www.bilibili.com/video/av56542057/?spm_id_from=333.788.videocard.9)
 
 # 有用的参考
 

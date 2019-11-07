@@ -100,7 +100,7 @@
  * [HTTP WATCH]()
  * [[尚学堂]Java---网络编程/手写服务器 手写聊天室 手写Webserver](https://www.bilibili.com/video/av38603991/?spm_id_from=333.788.videocard.19)
  * [web网络服务器开发案例 socket /tcp.ip 编程（完](https://www.bilibili.com/video/av53761019/?spm_id_from=333.788.videocard.1)
-
+ * [Linux网络编程 - 轻量级http服务器项目](https://www.bilibili.com/video/av60661105/?spm_id_from=333.788.videocard.15)
 # 有用的参考
 * [如何在Windows查看自己的电脑端口被什么程序占用了](https://blog.csdn.net/lianxue1986/article/details/51811386)
 * [linux如何查看某个端口被哪个程序占用了](https://blog.如何模拟超过 5 万的并发用户csdn.net/gezilan/article/details/79921059)

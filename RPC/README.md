@@ -1,7 +1,7 @@
 # 视频
 
 * [Java底层架构之分布式RPC底层原理剖析及其手写实现](https://www.bilibili.com/video/av64328919)
-
+* [阿里架构师带你如何用Netty写一个自己的RPC框架源码分析](https://www.bilibili.com/video/av66969127)
 # 有用的参考
 
 * [集群RPC通信该怎么做](https://mp.weixin.qq.com/s?__biz=MjM5MzA1Mzc3Nw==&mid=2247484099&idx=1&sn=1f3e67ea1c031550f73ad2f7fe13c511&chksm=a69daffd91ea26eb5e98131fac8d4b751abb334f51a49659900a8ce290e19244251fe6f234fb&scene=21#wechat_redirect)

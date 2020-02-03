@@ -93,7 +93,7 @@
       (1) I/0 模型：阻塞、非阻塞、同步、异步。
       (2）进程模型：单进程、多进程、单线程,多线程。
 
-[ServerSocket与Socket入门详解](ps://blog.csdn.net/J080624/article/details/78468396)|
+[ServerSocket与Socket入门详解](https://blog.csdn.net/J080624/article/details/78468396)|
 ---|
 
 

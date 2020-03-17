@@ -1,7 +1,7 @@
 
 
 # 视频
-
+* [Restful架构和RPC架构浅析](https://blog.csdn.net/AlbenXie/article/details/104736868)
 * [Java底层架构之分布式RPC底层原理剖析及其手写实现](https://www.bilibili.com/video/av64328919)
 * [阿里架构师带你如何用Netty写一个自己的RPC框架源码分析](https://www.bilibili.com/video/av66969127)
 # 有用的参考

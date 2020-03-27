@@ -90,7 +90,7 @@
   [HTTPS 网络协议原理解析](https://www.bilibili.com/video/av56542057/?spm_id_from=333.788.videocard.9)
 
 # 有用的参考
-
+* [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 *  [HTTP API 设计指南（基础部分）](https://segmentfault.com/a/1190000002511720)
 *  [HTTP API 设计指南（请求部分）](https://segmentfault.com/a/1190000002512493)
 *  [HTTP API 设计指南（响应部分）](https://segmentfault.com/a/1190000002515342)

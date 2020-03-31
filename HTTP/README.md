@@ -6,6 +6,7 @@
 * [HTTP与HTTPS的区别](#HTTP与HTTPS的区别)
 * [HTTP请求格式](#HTTP请求格式)
 * [HTTP响应格式](#HTTP响应格式)
+* [为什么请求时,需要使用URLEncode做encode转码操作](https://blog.csdn.net/u013833031/article/details/78828539)
 
 # HTTP WATCH 10 已装在IE中， win10 平台 必须要安装 version 10以上的HTTP WATCH
 
@@ -43,11 +44,12 @@
        7.  TRACE：回显服务器收到的请求，主要用于测试或诊断。
 
        8.  CONNECT：HTTP/1.1协议中预留给能够将连接改为管道方式的代理服务器
-       
+
 # 请求提交方式
   
   默认有五种请求提交方式
   
+
     1. 表单请求  默认GET，可以指定POST
     
     2. AJAX请求  默认GET，可以指定POST
@@ -57,6 +59,9 @@
     4. 超链接请求    （get请求）
     
     5. SRC资源路径请求    （get请求）
+
+  
+
 
 # HTTP与HTTPS的区别
   

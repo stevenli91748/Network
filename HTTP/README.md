@@ -7,7 +7,7 @@
 * [HTTP请求格式](#HTTP请求格式)
 * [HTTP响应格式](#HTTP响应格式)
 * [为什么请求时,需要使用URLEncode做encode转码操作](https://blog.csdn.net/u013833031/article/details/78828539)
-
+* [Java在web页面上的编码解码处理及中文URL乱码解决](https://www.jb51.net/article/80181.htm)
 # HTTP WATCH 10 已装在IE中， win10 平台 必须要安装 version 10以上的HTTP WATCH
 
 

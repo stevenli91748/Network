@@ -21,6 +21,8 @@
 * [java中URLEncoder.encode与URLDecoder.decode处理url特殊参数的方法](https://www.jb51.net/article/109017.htm)
 * [Java如何实现URL带请求参数(get/post)及得到get和post请求url和参数列表的方法](https://www.jb51.net/article/73898.htm)
 * [request请求获取参数的实现方法(post和get两种方式)]()
+* [谈谈Java利用原始HttpURLConnection发送POST数据](https://www.jb51.net/article/73621.htm)
+* [java使用httpclient模拟post请求和get请求示例](https://www.jb51.net/article/47282.htm)
 # 影响一个HTTP网络请求的因素
 
   1. 带宽

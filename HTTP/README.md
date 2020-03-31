@@ -91,6 +91,7 @@
 
 # 有用的参考
 * [程序员：我终于知道post和get的区别](https://www.jianshu.com/p/2e2c064f1a8b)
+* [为什么请求时,需要使用URLEncode做encode转码操作](https://blog.csdn.net/u013833031/article/details/78828539)
 * [一文带你看清 HTTP 所有概念](https://blog.csdn.net/qq_36894974/article/details/104044932)
 * [看完这篇HTTP，跟面试官扯皮就没问题了](https://blog.csdn.net/qq_36894974/article/details/103930478?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
 *  [HTTP API 设计指南（基础部分）](https://segmentfault.com/a/1190000002511720)

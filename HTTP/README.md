@@ -1,3 +1,6 @@
+
+# HTTP WATCH 10 已装在IE中， win10 平台 必须要安装 version 10以上的HTTP WATCH
+
 * HTTP基础知识
   * [HTTP 中有八种不同的请求方式](#HTTP-中有八种不同的请求方式)
   * [影响一个HTTP网络请求的因素](#影响一个HTTP网络请求的因素)
@@ -6,11 +9,18 @@
 * [HTTP与HTTPS的区别](#HTTP与HTTPS的区别)
 * [HTTP请求格式](#HTTP请求格式)
 * [HTTP响应格式](#HTTP响应格式)
+
+# URL
 * [为什么请求时,需要使用URLEncode做encode转码操作](https://blog.csdn.net/u013833031/article/details/78828539)
 * [Java在web页面上的编码解码处理及中文URL乱码解决](https://www.jb51.net/article/80181.htm)
-# HTTP WATCH 10 已装在IE中， win10 平台 必须要安装 version 10以上的HTTP WATCH
-
-
+* [Java 测试URL地址是否能正常连接的代码](https://www.jb51.net/article/90864.htm)
+* [Java中URL传中文时乱码的解决方法](https://www.jb51.net/article/94333.htm)
+* [Java HttpURLConnection超时和IO异常处理](https://www.jb51.net/article/92962.htm)
+* [Java截取url参数的方法](https://www.jb51.net/article/90864.htm)
+* [Java使用@Validated注解进行参数验证的方法](https://www.jb51.net/article/167642.htm)
+* [java中URLEncoder.encode与URLDecoder.decode处理url特殊参数的方法](https://www.jb51.net/article/109017.htm)
+* [Java如何实现URL带请求参数(get/post)及得到get和post请求url和参数列表的方法](https://www.jb51.net/article/73898.htm)
+* [request请求获取参数的实现方法(post和get两种方式)]()
 # 影响一个HTTP网络请求的因素
 
   1. 带宽

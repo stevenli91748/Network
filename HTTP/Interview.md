@@ -18,6 +18,11 @@ OPTIONS：查询相应URI支持的HTTP方法。
 <details>
 <summary>GET方法与POST方法的区别</summary>
 
+[程序员：我终于知道post和get的区别](https://www.jianshu.com/p/2e2c064f1a8b)
+
+[为什么请求时,需要使用URLEncode做encode转码操作](https://blog.csdn.net/u013833031/article/details/78828539)
+
+
 区别一：
 
 get重点在从服务器上获取资源，post重点在向服务器发送数据；

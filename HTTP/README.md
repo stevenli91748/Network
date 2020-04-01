@@ -29,6 +29,16 @@
 * [HTTP访问控制（CORS）](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
 * [一文弄懂 CORS 跨域(前端+后端代码实例讲解)](https://www.jianshu.com/p/f18388d6b931)
 
+#  XMLHttpRequest
+
+* [XMLHttpRequest](https://developer.mozilla.org/zh-CN/docs/Web/API/XMLHttpRequest)
+
+
+# 常用的静态服务器
+
+* [静态服务器](http://eux.baidu.com/blog/fe/%E5%B8%B8%E7%94%A8%E7%9A%84%E9%9D%99%E6%80%81%E6%9C%8D%E5%8A%A1%E5%99%A8)
+
+
 
 # 影响一个HTTP网络请求的因素
 

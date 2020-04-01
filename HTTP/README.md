@@ -23,6 +23,13 @@
 * [request请求获取参数的实现方法(post和get两种方式)]()
 * [谈谈Java利用原始HttpURLConnection发送POST数据](https://www.jb51.net/article/73621.htm)
 * [java使用httpclient模拟post请求和get请求示例](https://www.jb51.net/article/47282.htm)
+
+# CORS
+
+* [HTTP访问控制（CORS）](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
+* [一文弄懂 CORS 跨域(前端+后端代码实例讲解)](https://www.jianshu.com/p/f18388d6b931)
+
+
 # 影响一个HTTP网络请求的因素
 
   1. 带宽

@@ -48,9 +48,9 @@
       * Socket
       * WebSocket
     * Java NIO基础
-      * [BIO(Blocking-IO, 阻塞式IO)](#BIO)
-      * [NIO(Non-Blocking IO, 非阻塞式IO)](#NIO)
-      * [AIO(Async IO/NIO.2 异步IO)](#AIO)
+      * [BIO(Blocking-IO, 同步阻塞式IO)](#BIO)
+      * [NIO(Non-Blocking IO, 同步非阻塞式IO)](#NIO)
+      * [AIO(Async IO/NIO.2 异步非阻塞式IO)](#AIO)
   * [基于消息方式的系统间通信]()
     * [Socket方式](https://blog.csdn.net/J080624/article/details/78468396)
       * 基于java包实现消息方式的系统间通信

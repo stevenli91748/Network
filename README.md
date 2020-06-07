@@ -129,6 +129,7 @@
  
  
 # 有用的参考
+* [服务器开发中网络数据分析与故障排查经验漫谈](https://juejin.im/post/5befc8ee6fb9a04a0d567042)
 * [Java从网络编程到高并发学习路线](https://coding.imooc.com/learningpath/route?pathId=11)
 * [TCP的三次握手、四次挥手--非常详细讲解](https://blog.csdn.net/smileiam/article/details/78226816)
 * [TCP的三次握手与四次挥手理解及面试题（很全面](https://blog.csdn.net/qq_38950316/article/details/81087809?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1)

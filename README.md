@@ -15,6 +15,9 @@
       6. 为了更好理解Java网络编程需要，需要了解TOMCAT的实现原理
       7. Netty也必须了解，并用这一网络框架进行编程，还可以看看它的源码
 
+[不了解NIO你好意思说自己是Java程序员？](https://www.bilibili.com/video/BV1fW411c7pL)|
+---|
+
 * [网络通信基础]()
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qFQZzy9/image.jpg" alt="image" border="0"></a>
 
@@ -47,7 +50,7 @@
       * [HTTP](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)
       * Socket
       * WebSocket
-    * Java NIO基础
+    * [Java NIO基础](https://www.bilibili.com/video/BV1fW411c7pL)
       * [BIO(Blocking-IO, 同步阻塞式IO)](#BIO)
       * [NIO(Non-Blocking IO, 同步非阻塞式IO)](#NIO)
       * [AIO(Async IO/NIO.2 异步非阻塞式IO)](#AIO)

@@ -15,8 +15,8 @@
       6. 为了更好理解Java网络编程需要，需要了解TOMCAT的实现原理
       7. Netty也必须了解，并用这一网络框架进行编程，还可以看看它的源码
 
-[不了解NIO你好意思说自己是Java程序员？](https://www.bilibili.com/video/BV1fW411c7pL)|
----|
+[不了解NIO你好意思说自己是Java程序员？](https://www.bilibili.com/video/BV1fW411c7pL)|[我见过最清晰的总结，一键搞定Netty难关，看到NIO再也不犯糊涂了](https://zhuanlan.zhihu.com/p/181321048?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+---|---|
 
 * [网络通信基础]()
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qFQZzy9/image.jpg" alt="image" border="0"></a>

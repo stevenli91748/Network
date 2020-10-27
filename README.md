@@ -122,6 +122,7 @@
 
 
 # 网络视频
+ * [Computer Networking Course - Network Engineering](https://www.youtube.com/watch?v=qiQR5rTSshw)
  * [Full Ethical Hacking Course - Network Penetration Testing for Beginners (2019)](https://www.youtube.com/watch?v=3Kq1MIfTWCE)
  * [清华大牛权威讲解nio,epoll,多路复用，更好的理解redis-netty-Kafka等热门技术](https://www.bilibili.com/video/BV11K4y1C7rm/?spm_id_from=333.788.videocard.8)
  * [HTTP协议详解](https://www.bilibili.com/video/av28681865/?spm_id_from=333.788.videocard.18)

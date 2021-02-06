@@ -111,12 +111,18 @@
      ⾏处理。就是把多个I/O的阻塞复⽤到同⼀个select的阻塞上，从⽽使系统在单线程的情况下可以同时处理多个客户端请
      求。这种⽅式的优势是开销⼩，不⽤为每个请求创建⼀个线程，可以节省系统开销。
 
+* [NIO 网络编程框架 --- Netty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Netty/README.md)
+
 # AIO
 
      异步⾮阻塞⽅式（AIO），客户端只需要发起⼀个I/O操作然后⽴即返回，等I/O操作真正完成以后，客户端会得到I/O操作完
      成的通知，此时客户端只需要对数据进⾏处理就好了，不需要进⾏实际的I/O读写操作，因为真正的I/O读取或者写⼊操作已
      经由内核完成了。这种⽅式的优势是客户端⽆需等待，不存在阻塞等待问题。
 
+* [AIO 网络编程框架--- t-io](https://gitee.com/sxhjlzl/t-io)
+
+
+### I/O网络通信框架的发展历程：
 * [手动搭建I/O网络通信框架1：Socket和ServerSocket入门实战，实现单聊](https://www.cnblogs.com/lbhym/p/12673470.html)
 * [手动搭建I/O网络通信框架2：BIO编程模型实现群聊](https://www.cnblogs.com/lbhym/p/12681787.html)
 * [手动搭建I/O网络通信框架3：NIO编程模型，升级改造聊天室](https://www.cnblogs.com/lbhym/p/12698309.html)

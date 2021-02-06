@@ -1,3 +1,13 @@
+<details>
+<summary> Socket 套接字和 SocketServer</summary>
+
+* [手动搭建I/O网络通信框架1：Socket和ServerSocket入门实战，实现单聊](https://www.cnblogs.com/lbhym/p/12673470.html)
+
+</details> 
+
+
+
+
 协议
 
 TCP/IP

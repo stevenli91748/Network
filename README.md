@@ -165,3 +165,9 @@
 * [Java 网络教程: InetAddress](http://ifeve.com/java-inetaddress-2/)
 * [Java网络教程：Protocol Design](http://ifeve.com/java-network-protocol-design/)
 
+
+* [手动搭建I/O网络通信框架1：Socket和ServerSocket入门实战，实现单聊](https://www.cnblogs.com/lbhym/p/12673470.html)
+* [手动搭建I/O网络通信框架2：BIO编程模型实现群聊](https://www.cnblogs.com/lbhym/p/12681787.html)
+* [手动搭建I/O网络通信框架3：NIO编程模型，升级改造聊天室](https://www.cnblogs.com/lbhym/p/12698309.html)
+* [手动搭建I/O网络通信框架4：AIO编程模型，聊天室终极改造](https://www.cnblogs.com/lbhym/p/12720944.html)
+

@@ -5,6 +5,12 @@
 
 </details> 
 
+<details>
+<summary> 怎样理解阻塞非阻塞与同步异步的区别</summary>
+
+* [怎样理解阻塞非阻塞与同步异步的区别](https://www.zhihu.com/question/19732473)
+
+</details> 
 
 
 

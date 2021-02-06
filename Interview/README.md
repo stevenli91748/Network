@@ -1,3 +1,11 @@
+
+<details>
+<summary> 回调函数（callback）是什么</summary>
+
+* [事件处理 回调函数（callback）是什么](https://www.zhihu.com/question/19801131)
+
+</details> 
+
 <details>
 <summary> Socket 套接字和 SocketServer</summary>
 

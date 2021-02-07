@@ -20,6 +20,12 @@
 
 </details> 
 
+<details>
+<summary> 网络连接中的长连接和短链接是什么意思? </summary>
+
+* [网络连接中的长连接和短链接是什么意思?](https://www.zhihu.com/question/22677800)
+
+</details> 
 
 
 协议

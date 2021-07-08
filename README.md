@@ -42,7 +42,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qFQZzy9/image.jpg" alt="image" border="0"></a>
 
 * [单服务器采取的网络编程模型原理](#单服务器采取的网络编程模型原理)  
-  * 服务器如何管理连接---操作系统的I/O 模型
+  * [服务器如何管理连接---操作系统的I/O 模型](https://www.zhihu.com/question/19732473)
     * 阻塞
     * 非阻塞
     * 同步

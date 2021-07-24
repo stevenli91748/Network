@@ -11,8 +11,8 @@
   * [影响一个HTTP网络请求的因素](#影响一个HTTP网络请求的因素)
   * [HTTP协仪各种版本的优缺点](#HTTP协仪各种版本的优缺点)
   * http报文
-    * [详解http报文](https://juejin.cn/post/6844903956389314574)
-    * [详解http报文（2）-web容器是如何解析http报文的](https://juejin.cn/post/6844903959870570504) 
+    * [详解http报文 1](https://juejin.cn/post/6844903956389314574)
+    * [详解http报文 2-web容器是如何解析http报文的](https://juejin.cn/post/6844903959870570504) 
 * [HTTP与HTTPS的区别](#HTTP与HTTPS的区别)
 * [HTTP请求格式](#HTTP请求格式)
 * [HTTP响应格式](#HTTP响应格式)

@@ -167,6 +167,7 @@
  
  
 # 有用的参考
+* [前端通讯协议大比拼：WebSockets和HTTP](https://juejin.cn/post/6984991337841950757)
 * [了解 HTTP/1.x 的 keep-alive 吗？它与 HTTP/2 多路复用的区别是什么](https://juejin.cn/post/6989985247836241957)
 * [HTTP & Session & Cookie](https://juejin.cn/post/6991098235557249032)
 * [一个 TCP 连接可以发多少个 HTTP 请求](https://juejin.cn/post/6844904083703201806)

@@ -167,6 +167,7 @@
  
  
 # 有用的参考
+* [一个 TCP 连接可以发多少个 HTTP 请求](https://juejin.cn/post/6844904083703201806)
 * [TCP连接、Http连接与Socket连接的区别](https://blog.csdn.net/mccand1234/article/details/91346202#comments_14243550)
 * [HTTP Request 和Response---详解](https://blog.csdn.net/mccand1234/article/details/54577413)
 * [太厉害了，终于有人能把TCP/IP协议讲的明明白白了](https://developer.51cto.com/art/201906/597961.htm)

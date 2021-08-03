@@ -167,6 +167,7 @@
  
  
 # 有用的参考
+* [TCP连接、Http连接与Socket连接的区别](https://blog.csdn.net/mccand1234/article/details/91346202#comments_14243550)
 * [HTTP Request 和Response---详解](https://blog.csdn.net/mccand1234/article/details/54577413)
 * [太厉害了，终于有人能把TCP/IP协议讲的明明白白了](https://developer.51cto.com/art/201906/597961.htm)
 * [面试/笔试第一弹 —— 计算机网络面试问题集锦](https://blog.csdn.net/justloveyou_/article/details/78303617)

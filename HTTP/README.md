@@ -4,7 +4,8 @@
 # HTTP WATCH 10 已装在IE中， win10 平台 必须要安装 version 10以上的HTTP WATCH
 
 
-
+[HTTP/3详解---提供HTTP/3以及其底层协议QUIC的文档，介绍它们的目的、原理、协议细节以及实现等](https://www.kancloud.cn/kancloud/http3-explained)|
+---|
 
 * HTTP基础知识
   * [HTTP 中有八种不同的请求方式](#HTTP-中有八种不同的请求方式)

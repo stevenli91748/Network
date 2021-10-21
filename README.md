@@ -89,6 +89,7 @@
     * [Java NIO基础](https://www.bilibili.com/video/BV1fW411c7pL)
       * [BIO(Blocking-IO, 同步阻塞式IO)](#BIO)
       * [NIO(Non-Blocking IO, 同步非阻塞式IO)](#NIO)
+        * [10分钟看懂， Java NIO 底层原理---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/10225159.html) 
       * [AIO(Async IO/NIO.2 异步非阻塞式IO)](#AIO)
   * [基于消息方式的系统间通信]()
     * [Socket方式](https://blog.csdn.net/J080624/article/details/78468396)

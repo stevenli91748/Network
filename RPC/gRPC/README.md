@@ -11,5 +11,6 @@
         * [Bidirectional streaming RPCs（双向流式RPC）](https://weread.qq.com/web/reader/71d32370716443e271df020k07e323f027707e1cd7dc674)---客户端和服务端双方使用读写流发送消息序列。这两个流独立运行，因此客户端和服务器可以按任何顺序读取和写入。例如，服务器可以等待在写入其响应之前接收所有客户端消息，或者可以交替读取消息然后再写入消息，或读写其他组合。每个流中的消息顺序都会保留
       * 使用API---
       *  同步vs异步 ---gRPC支持同步调用和异步调用
+    * [gRPC依赖于Protocol Buffers](https://weread.qq.com/web/reader/71d32370716443e271df020kda432420278da4fb5c6e9ad)
     * [gRPC相比于HTTP/JSON（RESTFul API）客户端为何在性能方面表现得如此优异 ](https://weread.qq.com/web/reader/71d32370716443e271df020kc45328f0274c45147dee704)
     * 

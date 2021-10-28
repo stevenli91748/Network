@@ -2,6 +2,7 @@
 
 # 目录
  * [gRPC入门案例实战例子](https://weread.qq.com/web/reader/71d32370716443e271df020k2023270027b202cb962a56f)
+ * [如何使用Protocol Buffers实际案例](https://weread.qq.com/web/reader/71d32370716443e271df020kda432420278da4fb5c6e9ad)
  * [gRPC概念 ](https://weread.qq.com/web/reader/71d32370716443e271df020keb132680275eb160de1d35c)
     * [gRPC的一些核心概念 ](https://weread.qq.com/web/reader/71d32370716443e271df020k5ef32bd02765ef0599381f7)
       * 服务定义---gRPC可以定义4种服务方法

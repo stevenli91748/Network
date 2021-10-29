@@ -17,7 +17,7 @@
 * [HTTP与HTTPS的区别](#HTTP与HTTPS的区别)
 * [HTTP请求格式](#HTTP请求格式)
 * [HTTP响应格式](#HTTP响应格式)
-
+* [HTTP 2](https://weread.qq.com/web/reader/71d32370716443e271df020k4c5327a02794c56ff4ce24c)
 # URL
 * [为什么请求时,需要使用URLEncode做encode转码操作](https://blog.csdn.net/u013833031/article/details/78828539)
 * [Java在web页面上的编码解码处理及中文URL乱码解决](https://www.jb51.net/article/80181.htm)

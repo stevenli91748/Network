@@ -16,3 +16,4 @@
     * [gRPC相比于HTTP/JSON（RESTFul API）客户端为何在性能方面表现得如此优异 ](https://weread.qq.com/web/reader/71d32370716443e271df020kc45328f0274c45147dee704)
     * [gRPC基于HTTP2](https://weread.qq.com/web/reader/71d32370716443e271df020k4c5327a02794c56ff4ce24c)
     * [gRPC基于Netty进行IO处理](https://weread.qq.com/web/reader/71d32370716443e271df020ka0a32dd027aa0a080f42962)
+ * [如何在Spring Cloud项目中使用gRPC](https://weread.qq.com/web/reader/71d32370716443e271df020k3de32dd027d3def184ad06e)             

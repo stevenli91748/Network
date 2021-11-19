@@ -3,6 +3,15 @@
 # 在线书籍
 * [5G为人工智能与工业互联网](https://weread.qq.com/web/reader/025321d071a561dc025d935)
 
+* [19 (疯狂创客圈) Netty Zookeeper Redis 高并发实战](https://weread.qq.com/web/reader/1e732510718f63a11e7dee2)
+  * [19.1 《Netty  Redis  Zookeeper 高并发实战》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html)
+
+* [20 (疯狂创客圈) Java高并发核心编程 (卷1)](https://weread.qq.com/web/reader/e6d323b0723b6029e6d1c55) 
+  * [20.1 《Java高并发核心编程 (卷1)》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
+
+* [21 (疯狂创客圈) Java高并发核心编程 (卷2)](https://weread.qq.com/web/reader/9b93254072456ac19b9a176)
+  * [21.1 《Java高并发核心编程 (卷2)》随书源码、说明](https://www.cnblogs.com/crazymakercircle/p/9904544.html) 
+
 
 
 # 网络知识目录

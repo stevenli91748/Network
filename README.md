@@ -1,5 +1,10 @@
 # [Network 面试](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
 
+# 在线书籍
+* [5G为人工智能与工业互联网](https://weread.qq.com/web/reader/025321d071a561dc025d935)
+
+
+
 # 网络知识目录
 
 <a href="https://ibb.co/N3KF4N9"><img src="https://i.ibb.co/QcMJ5HP/net151954.png" alt="net151954" border="0"></a>

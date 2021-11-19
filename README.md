@@ -112,7 +112,7 @@
         * UDP/IP
         * Multicast
       * 基于开源框架实现消息方式的系统间通信
-        * Netty
+        * [Netty](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Tools%20and%20Middleware/Netty/README.md)
         * Mina(apache，基于java NIO，对外屏蔽了JavaNIO的复杂性)
         * Dubbo
     * 消息队列方式

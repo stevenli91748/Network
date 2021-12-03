@@ -188,6 +188,7 @@
  
  
 # 有用的参考
+* [Windows：查看IP地址，IP地址对应的机器名，占用的端口，以及占用该端口的应用程](https://www.cnblogs.com/ljhdo/p/4548840.html)
 * [Http 长连接、短连接、长轮询、短轮询](https://www.jianshu.com/p/22dabfef3785)
 * [前端通讯协议大比拼：WebSockets和HTTP](https://juejin.cn/post/6984991337841950757)
 * [了解 HTTP/1.x 的 keep-alive 吗？它与 HTTP/2 多路复用的区别是什么](https://juejin.cn/post/6989985247836241957)

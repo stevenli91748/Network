@@ -10,9 +10,12 @@
 
 ---
 
+
+
 [HTTP/3详解---提供HTTP/3以及其底层协议QUIC的文档，介绍它们的目的、原理、协议细节以及实现等](https://www.kancloud.cn/kancloud/http3-explained)|[面试官：为什么要合并 HTTP 请求?](https://mp.weixin.qq.com/s/hceQ23UTHEn_T9Cr-zNAVA)|
 ---|---|
 
+# 目录
 * HTTP基础知识
   * [HTTP 中有八种不同的请求方式](#HTTP-中有八种不同的请求方式)
   * [影响一个HTTP网络请求的因素](#影响一个HTTP网络请求的因素)
@@ -24,7 +27,33 @@
 * [HTTP请求格式](#HTTP请求格式)
 * [HTTP响应格式](#HTTP响应格式)
 * [HTTP 2](https://weread.qq.com/web/reader/71d32370716443e271df020k4c5327a02794c56ff4ce24c)
-# URL
+     * HTTP
+       * HTTP请求方法
+         * 从服务器获取数据的请求
+           * [GET---它是幂等（Idempotent）的，意思是发出多个相同的GET请求与发出单个GET请求具有相同的效果](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck4c5327a02794c56ff4ce24c)
+             * [HttpClient模块的请求头配置 ](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka0a32dd027aa0a080f42962)
+               * 添加请求头
+               * 修改请求头
+               * 配置请求参数 
+               * [跨域访问控制](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka0a32dd027aa0a080f42962) 
+                 * 跨域资源共享（CORS）
+                 * 请求JSON数据---当服务器不支持跨域资源共享协议(CORS）时，JSONP是目前应用最为广泛的技术解决方案之一
+                 * 请求非JSON数据 
+         * 修改型的请求
+           * [POST---它不是幂等的，意思是多次调用相同的POST请求与调用一次的效果不同](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckc8f3245027cc8ffe9a588b8)
+           * PUT---它是幂等的，意思是多次调用相同的PUT请求与调用一次的效果相同
+           * PATCH
+           * DELETE ---它不是幂等的，意思是多次调用相同的DELETE请求与调用一次的效果不同。
+       * HTTP响应
+         * [读取完整的响应信息](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8cka0a32dd027aa0a080f42962)
+         * [ HttpClient模块与RxJS配合](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ck2023270027b202cb962a56f)
+           * 错误处理
+           * 重试 
+
+
+
+
+# 有用的参考
 * [为什么请求时,需要使用URLEncode做encode转码操作](https://blog.csdn.net/u013833031/article/details/78828539)
 * [Java在web页面上的编码解码处理及中文URL乱码解决](https://www.jb51.net/article/80181.htm)
 * [Java 测试URL地址是否能正常连接的代码](https://www.jb51.net/article/90864.htm)

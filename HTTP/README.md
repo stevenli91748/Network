@@ -4,6 +4,12 @@
 # HTTP WATCH 10 已装在IE中， win10 平台 必须要安装 version 10以上的HTTP WATCH
 
 
+
+# 在线书籍
+* [HttpClient模块](https://weread.qq.com/web/reader/7f332f2072462dd67f32c8ckeb132680275eb160de1d35c)
+
+---
+
 [HTTP/3详解---提供HTTP/3以及其底层协议QUIC的文档，介绍它们的目的、原理、协议细节以及实现等](https://www.kancloud.cn/kancloud/http3-explained)|[面试官：为什么要合并 HTTP 请求?](https://mp.weixin.qq.com/s/hceQ23UTHEn_T9Cr-zNAVA)|
 ---|---|
 

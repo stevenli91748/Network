@@ -132,6 +132,7 @@
   [HTTPS 网络协议原理解析](https://www.bilibili.com/video/av56542057/?spm_id_from=333.788.videocard.9)
 
 # 有用的参考
+* [99%的人都理解错了 HTTP 中 GET 与 POST 的区别](https://learnku.com/articles/25881)
 * [HTTP缓存控制及为什么要缓存](https://www.chedong.com/tech/cache_docs.html)
 * [硬核！30 张图解 HTTP 常见的面试题](https://mp.weixin.qq.com/s/FJGKObVnU61ve_ioejLrtw)
 * [程序员：我终于知道post和get的区别](https://www.jianshu.com/p/2e2c064f1a8b)

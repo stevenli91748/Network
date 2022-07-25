@@ -12,3 +12,4 @@
 * [基础才是王道——TCP/IP详解学习笔记 这位仁兄写得太好了](https://blog.csdn.net/zhangliangzi/article/details/52551089)
 * [如何处理10000 TCP连接 ](https://www.oschina.net/translate/c10k)
 * [如何处理10000 TCP连接 english version](http://www.kegel.com/c10k.html#nb.select)
+* [linux的TCP连接数量最大不能超过65535个吗，那服务器是如何应对百万千万的并发的？](https://mp.weixin.qq.com/s/k_6Oi-_z-MpdytSvFSLN0A)

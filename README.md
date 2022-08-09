@@ -61,6 +61,7 @@
 
 * [网络通信基础]()
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qFQZzy9/image.jpg" alt="image" border="0"></a>
+* [4/7层网络模型](https://www.cnblogs.com/cac2020/p/11821299.html)
 
 * [单服务器采取的网络编程模型原理](#单服务器采取的网络编程模型原理)  
   * [服务器如何管理连接---操作系统的I/O 模型](https://www.zhihu.com/question/19732473)
@@ -85,7 +86,7 @@
     * 多线程
   
   * 网络编程模型的实际方案
-    * [PPC]()
+    * PPC
     * Prefork
     * TPC
     * Prethread
@@ -95,10 +96,13 @@
 * 分布式应用的系统间通信方式
   * 网络通信
     * 通信协议
-      * TCP/IP
-      * UDP/IP
+      * [HTTP](https://www.cnblogs.com/cac2020/p/11837066.html)
+        * [HTTP github](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)
+      * [HTTPS](https://www.cnblogs.com/cac2020/p/11859105.html)
+      * [HTTP2](https://www.cnblogs.com/cac2020/p/11867852.html)
+      * [TCP](https://www.cnblogs.com/cac2020/p/11950660.html)
+      * [UDP](https://www.cnblogs.com/cac2020/p/11950679.html)
       * Multicast
-      * [HTTP](https://github.com/stevenli91748/Network/blob/master/HTTP/README.md)
       * Socket
       * WebSocket
     * [Java NIO基础](https://www.bilibili.com/video/BV1fW411c7pL)
@@ -179,7 +183,7 @@
  * [清华大牛权威讲解nio,epoll,多路复用，更好的理解redis-netty-Kafka等热门技术](https://www.bilibili.com/video/BV11K4y1C7rm/?spm_id_from=333.788.videocard.8)
  * [HTTP协议详解](https://www.bilibili.com/video/av28681865/?spm_id_from=333.788.videocard.18)
  * [Fiddler抓包工具实战全网最全最细教程，没有之一](https://www.bilibili.com/video/av58454086/?spm_id_from=333.788.videocard.14)
- * [HTTP WATCH]()
+ * HTTP WATCH
  * [[尚学堂]Java---网络编程/手写服务器 手写聊天室 手写Webserver](https://www.bilibili.com/video/av38603991/?spm_id_from=333.788.videocard.19)
  * [web网络服务器开发案例 socket /tcp.ip 编程（完](https://www.bilibili.com/video/av53761019/?spm_id_from=333.788.videocard.1)
  * [Linux网络编程 - 轻量级http服务器项目](https://www.bilibili.com/video/av60661105/?spm_id_from=333.788.videocard.15)
@@ -227,6 +231,6 @@
 * [Java网络教程：Protocol Design](http://ifeve.com/java-network-protocol-design/)
 * [ping命令用得这么6，原理知道不？图解一波！](https://mp.weixin.qq.com/s/55bbQX2-SUNe6PEI9My5fA)
 * [探究：一个数据包在网络中到底是怎么游走的？](https://mp.weixin.qq.com/s/07zloKKMUl-RHN6tWqZIJQ)
-* []()
+
 
 

@@ -193,6 +193,7 @@
  
  
 # 有用的参考
+* [简述同步IO、异步IO、阻塞IO、非阻塞IO之间的联系与区别 ](https://www.cnblogs.com/felixzh/p/10345929.html)
 * [Windows：查看IP地址，IP地址对应的机器名，占用的端口，以及占用该端口的应用程](https://www.cnblogs.com/ljhdo/p/4548840.html)
 * [Http 长连接、短连接、长轮询、短轮询](https://www.jianshu.com/p/22dabfef3785)
 * [前端通讯协议大比拼：WebSockets和HTTP](https://juejin.cn/post/6984991337841950757)

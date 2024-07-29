@@ -1,4 +1,6 @@
 # [Network 面试](https://github.com/stevenli91748/Network/blob/master/Interview/README.md)
+# [【从入门到入狱】1200集暗网黑客技术教程，只要你敢学我就敢教！零基础学习网络安全渗透测试技术](https://www.bilibili.com/video/BV1SE421w7q4/?p=2&spm_id_from=pageDriver&vd_source=be3ac4894f8bf7883ae92030f6f7be46)
+
 
 # 在线书籍
 * [深入理解计算机网络---王达 20年网络经验](https://weread.qq.com/web/reader/2a3328e05934522a3f38d15)
